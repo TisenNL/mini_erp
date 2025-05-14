@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <p>&copy; <?php echo date('Y'); ?> Mini ERP - Todos os direitos reservados</p>
+                <p>&copy; <?php echo date('Y'); ?> Mini ERP do Tiago Lino - Todos os direitos reservados</p>
             </div>
             <div class="col-md-6 text-right">
                 <p>Sistema de Controle de Pedidos, Produtos, Cupons e Estoque</p>
