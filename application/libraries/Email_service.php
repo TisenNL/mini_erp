@@ -46,7 +46,7 @@ class Email_service {
         $this->ci->load->library('email');
         $this->ci->email->clear();
         
-        $this->ci->email->from('seu_email@gmail.com', 'Mini ERP');
+        $this->ci->email->from('minierpteste@gmail.com', 'Mini ERP do Tiago Lino');
         $this->ci->email->to($pedido->cliente_email);
         $this->ci->email->subject($subject);
         $this->ci->email->message($message);

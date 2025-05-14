@@ -88,3 +88,8 @@ $route['webhook/status'] = 'webhook/status';
 // Rotas para pedidos
 $route['pedidos'] = 'pedidos/index';
 $route['pedidos/view/(:num)'] = 'pedidos/view/$1';
+
+// Rotas de compras
+$route['produtos/comprar/(:num)'] = 'produtos/comprar/$1';
+$route['produtos/comprar_direto/(:num)'] = 'produtos/comprar_direto/$1';
+$route['produtos/comprar_direto/(:num)/(:num)'] = 'produtos/comprar_direto/$1/$2';

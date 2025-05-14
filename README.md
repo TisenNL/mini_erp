@@ -98,6 +98,3 @@ Autor
 Tiago Lino
 
 Desenvolvido como teste técnico.
-Licença
-
-Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
