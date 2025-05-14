@@ -1,4 +1,4 @@
-Mini ERP - Sistema de Controle de Pedidos, Produtos, Cupons e Estoque
+Mini ERP do Tiago Lino - Sistema de Controle de Pedidos, Produtos, Cupons e Estoque
 
 Este é um mini sistema ERP desenvolvido em PHP utilizando o framework CodeIgniter 3, com Bootstrap para o frontend e jQuery para interações do usuário.
 Funcionalidades
