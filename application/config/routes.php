@@ -84,3 +84,7 @@ $route['carrinho/buscar_cep'] = 'carrinho/buscar_cep';
 
 // Rota para webhook
 $route['webhook/status'] = 'webhook/status';
+
+// Rotas para pedidos
+$route['pedidos'] = 'pedidos/index';
+$route['pedidos/view/(:num)'] = 'pedidos/view/$1';

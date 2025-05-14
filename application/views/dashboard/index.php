@@ -14,7 +14,7 @@
             <div class="card-body">
                 <h5 class="card-title">Total de Pedidos</h5>
                 <h2 class="card-text"><?php echo $total_pedidos; ?></h2>
-                <a href="#" class="btn btn-light">Ver Pedidos</a>
+                <a href="<?php echo base_url('pedidos'); ?>" class="btn btn-light">Ver Pedidos</a>
             </div>
         </div>
     </div>
