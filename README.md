@@ -36,7 +36,7 @@ Instalação
 
     Clone este repositório:
 
-    git clone https://github.com/seu-usuario/mini-erp.git
+    git clone https://github.com/TisenNL/mini_erp.git
 
     Configure o ambiente:
         Crie um banco de dados MySQL
